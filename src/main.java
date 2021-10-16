@@ -1,4 +1,3 @@
-
 import animal.Animals;
 import animal.Cat;
 import animal.Dog;

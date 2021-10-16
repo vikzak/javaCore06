@@ -24,5 +24,4 @@ public abstract class Animals {
         else System.out.println("Имя животного: " + name + ", возраст: " + age + ", пробежал: " + run + "м., проплыл: ");
     }
 
-
 }
