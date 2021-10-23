@@ -1,7 +1,7 @@
 import animal.Animals;
 import animal.Cat;
 import animal.Dog;
-
+// учел все замечания)
 public class main {
     public static void main(String[] args) {
         //изначально создаю новорожденных с нулевыми значениями))
